@@ -24,7 +24,7 @@ Unity, Visual Studio, Git
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Add a point system
 * Add a start menu
 * Add hit sounds
