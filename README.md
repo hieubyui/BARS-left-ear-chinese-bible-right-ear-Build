@@ -1,12 +1,15 @@
 # Overview
+You play as a cube traversing through space.
+You have to dodge dangerous obstacles and reach the finish line.
 
+They are also auditory obstacles you must overcome.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 My second game in Unity. I wanted to make a game by myself. Whenever I got stuck, I would look up on the internet for a solution.
 
-You play as a bird that has to traverse through pipes. Each traversal awards you one point. Hitting the pipe ends the game and lets you Play Again. The game has a UI, takes in user input, and is able to be looped.
-
-I wrote this software because I wanted to make a 2D space game. Through this process, I learned so much about Unity. 
+I wrote this software because I wanted to make a 2D space game. Through this process, I learned so much about Unity and game making. 
 Things I have accomplished in this journey:
-* Add and manipulate audio in Unity
+* Add and manipulate audio in Unity, using audio reverb zones
 * Layer editors and sorting layers
 * Adding a background
 
