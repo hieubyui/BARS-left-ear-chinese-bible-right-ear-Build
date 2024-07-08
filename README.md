@@ -13,7 +13,7 @@ Things I have accomplished in this journey:
 * Layer editors and sorting layers
 * Adding a background
 
-[Software Demo Video](placeholder)
+[Software Demo Video](https://youtu.be/WVRaUGGF12s)
 
 # Development Environment
 
